@@ -31,3 +31,5 @@ do{
 }while (number>0)
 
 console.log(original + "factorial is " + factorial)
+
+console.log ("super tired!")
