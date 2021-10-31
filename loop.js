@@ -31,3 +31,4 @@ do{
 }while (number>0)
 
 console.log(original + "factorial is " + factorial)
+console.log("I was told to edit it locally ...")
