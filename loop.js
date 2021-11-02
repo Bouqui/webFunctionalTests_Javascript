@@ -30,4 +30,4 @@ do{
     number --
 }while (number>0)
 
-console.log(original + "factorial is this" + factorial)
+console.log(original + "factorial is this one" + factorial)
